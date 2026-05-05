@@ -1,6 +1,6 @@
 # Hi, I'm Jordan — @berkey48
 
-I'm a sports science professional at the intersection of **Kinesiology and Data Science**, focused on translating complex performance data into actionable insights for coaches and high-performance staff.
+I'm a sports science professional working at the intersection of Kinesiology and Data Science, focused on translating complex performance data into actionable insights for coaches and high-performance staff.
 
 ---
 
@@ -18,9 +18,9 @@ I'm also passionate about the ethical dimensions of sports technology — partic
 
 ## 🔬 Areas of Expertise
 
-**Performance Analysis** — Training load management (ACWR), fatigue monitoring, and return-to-play protocol development, KPI.
+**Performance Analysis** — Training load management (ACWR), fatigue monitoring, readiness to compete, return-to-play protocol development, and KPI Identification.
 
-**Sports Technology Validation** — Accuracy and reliability testing for wearable IMUs, Force and Velocity Tranducers, radar systems (TrackMan, Rapsodo), and optical/markerless motion capture.
+**Sports Technology Validation** — Accuracy and reliability testing for wearable IMUs, Force and Velocity Transducers, and optical/markerless motion capture.
 
 ---
 
