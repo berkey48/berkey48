@@ -57,4 +57,5 @@ Proposed research framework investigating velocity-based training (VBT) as a dai
 I'm actively seeking opportunities in **sport performance analysis** and **sports science** — if you're working on something at the intersection of data and athletic performance, I'd love to connect.
 
 - 🔗 [linkedin.com/in/jordan-berke](https://www.linkedin.com/in/jordan-berke/)
+- 🔗 [JobsInSports](www.jobsinsports.com/u/jberke)
 - 📧 jberke10@gmail.com
