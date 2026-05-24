@@ -48,7 +48,7 @@ Designed and implemented standard operating procedures for GPS-based athlete mon
 **Integrating Technology in Baseball: A Multi-System Swing Analytics Framework** *(Seattle University — Technology in Performance Science)* - Assessed the validated technology landscape for baseball swing kinematics, such as IMU, AI-assisted markerless motion capture, and radar, and proposed a data fusion framework using acoustic-triggered time alignment to integrate all three into a single pipeline. Included a phased implementation roadmap and stakeholder analysis across players, coaches, and administration.
 
 **Barbell Squat Velocity as a Measure of an Athlete’s Readiness** *(Student Research & Creative Conference)* -
-Proposed research framework investigating velocity-based training (VBT) as a daily readiness indicator for Division I athletes, exploring correlations between mean concentric velocity and session RPE to quantify neuromuscular fatigue without subjective bias.
+Proposed research framework investigating velocity-based training (VBT) as a readiness indicator for Division I athletes, exploring correlations between mean concentric velocity and session RPE to quantify neuromuscular fatigue without subjective bias.
 
 ---
 
